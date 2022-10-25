@@ -18,6 +18,8 @@ let handler = async (m, { conn }) => {
 │ /family100
 │ /tebakkata
 │ /siapakahaku
+│ /caklontong
+│ /math
 ╰────
 ╭─「 🤖 *Sticker Maker* 」
 │ /stiker + _Reply Pesan_
