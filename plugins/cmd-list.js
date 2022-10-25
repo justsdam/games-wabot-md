@@ -16,8 +16,6 @@ let handler = async (m, { conn }) => {
 ╰────
 ╭─「 🎮 *Game* 」
 │ /family100
-│ /tebakkata
-│ /siapakahaku
 │ /caklontong
 │ /math
 ╰────
@@ -30,7 +28,6 @@ let handler = async (m, { conn }) => {
 ╭─「 🔎 *Search* 」
 │ /google + _Keywords_
 │ /pinterest + _Keywords_
-│ /lirik + _Keywords_
 ╰────
 ╭─「 🔮 *Magic Ball* 」
 │ /apakah + _Pertanyaan Kalian_
